@@ -20,7 +20,12 @@ A document-based database clone inspired by MongoDB, built from scratch in Go.
 ## 💡 Usage
 
 ```bash
-make run test
+
+# testing storage
+make  test_storage
+
+# # testing storage
+# make test_cli
 
 ```
 
